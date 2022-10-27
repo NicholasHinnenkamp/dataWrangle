@@ -1,0 +1,17 @@
+You should have one notebook cell for each question below.  Each question is worth 3 points (partial credit will be given).
+
+1. What's the total electrical usage for the day?
+
+2. What's the total electrical usage for 'Residental' customers for the day?
+
+3. What's the total electrical usage for hour 7 of the day?
+
+4. What are the top 5 meters in terms of usage for the day and how much power did they use?
+
+5. Which hour had the most usage for the day and what was the total electrical usage?
+
+6. How many meters are in CustMeter.csv dataset that didn't have any valid readings for the day after cleaning the data?  
+
+7. How many Custmer Acount Number / Meter Number / Data Type combinations have some data in the cleaned file but not all?
+
+
